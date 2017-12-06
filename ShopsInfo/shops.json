@@ -1,132 +1,154 @@
-[{
+
+ [{
 	"shop_name": "Flipkart App",
-	"shop_image": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw",
+	"shop_url" : "https://www.flipkart.com/"
 },
 
 {
 	"shop_name": "Club-Factory",
-	"shop_image": "https://lh3.googleusercontent.com/W6wSm0MxO778oVPFqSLlhN69q323mNoVOC_ibpWhRE4T_-QXJgFHuFQyHjK7MCOglQ=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/W6wSm0MxO778oVPFqSLlhN69q323mNoVOC_ibpWhRE4T_-QXJgFHuFQyHjK7MCOglQ=w300-rw",
+	"shop_url" : "https://m.clubfactory.com/"
+
 
 },
 
 {
 	"shop_name": "Voonik App",
-	"shop_image": "https://lh3.googleusercontent.com/ZDLiYOr-fm5pgYK5DG4xupFFNQ3fxFyGq-RkexslfaAxoH2DuuZKnpvchvaxfQUnw6ZF=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/ZDLiYOr-fm5pgYK5DG4xupFFNQ3fxFyGq-RkexslfaAxoH2DuuZKnpvchvaxfQUnw6ZF=w300-rw",
+	"shop_url" : "https://m.voonik.com/"
 },
 
 {
 	"shop_name": "Amazon App",
-	"shop_image": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300-rw"
+	"image_url": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300-rw",
+	"shop_url" : "https://www.amazon.in/"
 },
 
 {
 	"shop_name": "Paytm-Mall",
-	"shop_image": "https://lh3.googleusercontent.com/7NwF3V-2xx4xRmMRbGXjdCeK7UMJ2D-BmZnGgGMEsbGcR-J1rc3W6BaboH-TuSh6hA=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/7NwF3V-2xx4xRmMRbGXjdCeK7UMJ2D-BmZnGgGMEsbGcR-J1rc3W6BaboH-TuSh6hA=w300-rw",
+	"shop_url" : "https://paytmmall.com/"
 
 
 },
 
 {
 	"shop_name": "Myntra App",
-	"shop_image": "https://lh3.googleusercontent.com/J_IPZOnXakLkFCxbOC6tKcvtUbuI7WSkvjoRQh9-QjZV4o0cVSe1TzfaewGi_2f5RQ=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/J_IPZOnXakLkFCxbOC6tKcvtUbuI7WSkvjoRQh9-QjZV4o0cVSe1TzfaewGi_2f5RQ=w300-rw",
+	"shop_url" : "https://www.myntra.com/"
 
 
 },
 
 {
 	"shop_name": "Ajio App",
-	"shop_image": "https://lh3.googleusercontent.com/ONjrqaU48hw4l-eKuC_2bewKrkt837sddNXrlp0pGe-FOG0T9FqHnqLclymWYqdXJKw=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/ONjrqaU48hw4l-eKuC_2bewKrkt837sddNXrlp0pGe-FOG0T9FqHnqLclymWYqdXJKw=w300-rw",
+	"shop_url" : "https://www.ajio.com"
 
 
 },
 
 {
-	"shop_name": "Kraftly App",
-	"shop_image": "https://lh3.googleusercontent.com/cXoWZ-vg6Zx0DgtNMuXkDZs8pNBu1tvhvwCjufrf-8ht1fiL3_EN8SJusrUfeFsQQ1bY=w300-rw"
+	"shop_name": "LimeRoad App",
+	"image_url": "https://lh6.ggpht.com/ujF4W3J5DoKVQ6eXnBgDlqurhuamCsW7zLZZPFBXet4Pzhmyn6E-EyR55df6pHxqExc=w300-rw",
+	"shop_url" : "https://www.limeroad.com/"
 
 
 },
 
 {
 	"shop_name": "Koovs App",
-	"shop_image": "https://lh5.ggpht.com/4YQ4eS67H6pLnABtgT2-k3LGtDvbd9OwMVa5tzxzZoW2Gz2Iq0Se7-XrYtTr4HX8lLJw=w300-rw"
+	"image_url": "https://lh5.ggpht.com/4YQ4eS67H6pLnABtgT2-k3LGtDvbd9OwMVa5tzxzZoW2Gz2Iq0Se7-XrYtTr4HX8lLJw=w300-rw",
+	"shop_url" : "https://www.koovs.com/"
 
 
 },
 
 {
 	"shop_name": "Mirraw App",
-	"shop_image": "https://lh3.googleusercontent.com/k2AbDF5RDNIMPEWb2LvJ1jU9b1HLc4uzkSflokl5boazVB7eb-wvkpAqfRm7HT0Xfww=w300-rw"
+	"image_url": "https://lh3.googleusercontent.com/k2AbDF5RDNIMPEWb2LvJ1jU9b1HLc4uzkSflokl5boazVB7eb-wvkpAqfRm7HT0Xfww=w300-rw",
+	"shop_url" : "https://m.mirraw.com/"
 
 
 },
 
 {
-	"shop_name": "aquabynature",
-	"shop_image": "https://aquabynature-shop.com/img/aqua-by-nature-the-shop-1421256602.jpg"
+	"shop_name": "The Body Shop",
+	"image_url": "https://lh3.googleusercontent.com/aqjazS4uBeHToeShdp_vx0PtYFFscF840kWbrNaZ3Liv-2ZwlCqgqUxwrXAvu7aTgN4=w300-rw",
+	"shop_url" : "https://www.thebodyshop.in/"
 
 
 },
 
 {
-	"shop_name": "aquariumsindia",
-	"shop_image": "http://www.aquariumsindia.com/images/logo.jpg"
+	"shop_name": "Nykaa",
+	"image_url": "https://lh3.ggpht.com/RllZf42XounX60rftJqa0K3EfoCMmzGqdOgbZvtQiPETcOVaes8cw1bEeBhW7UGeNb0=w300-rw",
+	"shop_url" : "http://www.nykaa.com/"
 
 
 },
 
 {
-	"shop_name": "bunnycart",
-	"shop_image": "https://d24c6le0nbcy3y.cloudfront.net/wp-content/uploads/2016/01/21175359/Bunnycart-Logo.png"
+	"shop_name": "Newu",
+	"image_url": "https://lh3.googleusercontent.com/1wYSKyUkb_YiMzK1RBQxEXp7WqngM8ZqD2ggGIAh956FOHtzXXtKvxmXUpr0mGHYuBJA=w300-rw",
+	"shop_url" : "https://www.newu.in/"
 
 
 },
 
 {
-	"shop_name": "easypets",
-	"shop_image": "https://bab-assets3.babapi.ooo/img/lookandfeel/5344535/da39a3ee5e6b4b0d3255b_logopng.png.999x110x.png"
+	"shop_name": "Purplle",
+	"image_url": "https://lh3.googleusercontent.com/kGx2KMETFueclfMyGAH2BiIHHtpN4ZtlpaiZ0MZWUd0EFdGLLWYk4B9LdCH5poC39EQ=w300-rw",
+	"shop_url" : "https://www.purplle.com/"
 
 
 },
 
 {
-	"shop_name": "finsflora",
-	"shop_image": "https://finsnflora.com/img/logo-1.jpg"
+	"shop_name": "MayBeLine",
+	"image_url": "https://lh3.googleusercontent.com/uHkyyQ2h2m4oiaWMFJliAdyOoMFzAlTr12zJMkv3G2J3PMHosq7idI6nZYL8bFgtJK4=w300-rw",
+	"shop_url" : "https://www.maybelline.com/"
 
 
 },
 
 {
-	"shop_name": "indianaquarium",
-	"shop_image": "http://d3gyiijzpk1c44.cloudfront.net/upload/stores/14159/logo.1.jpg"
+	"shop_name": "Fab Bag",
+	"image_url": "https://lh3.googleusercontent.com/5yThQbLHswRMDYyacV3qUcHrP64UPMma-_dyBS-KhR0wdOYMQTLrxmHGtyMy8XeRJQE=w300-rw",
+	"shop_url" : "https://www.fabbag.com/"
 
 
 },
 
 {
-	"shop_name": "indohobby",
-	"shop_image": "http://m.indohobby.com/skin/frontend/ultimate/default/images/logo.png"
+	"shop_name": "The Skin Store",
+	"image_url": "https://www.theskinstore.in/images/logo.png",
+	"shop_url" : "https://www.theskinstore.in/"
 
 
 },
 
 {
-	"shop_name": "makemyhobby",
-	"shop_image": "http://makemyhobby.com/image/cache/catalog/logo-240x180.gif"
+	"shop_name": "MyGlamm",
+	"image_url": "https://lh3.googleusercontent.com/E_J1T34n72iA8ohR1LlplvWWk6csk1rCKWLb5Mca_B_K7QGJx5tK35SVCsEZ6LUIllk=w300-rw",
+	"shop_url" : "https://www.myglamm.com/"
 
 
 },
 
 {
-	"shop_name": "petsworld",
-	"shop_image": "https://www.petsworld.in/skin/frontend/default/petsworld/images/independancelogo.png"
+	"shop_name": "Health & Glow",
+	"image_url": "https://lh3.googleusercontent.com/uEDcDO4852tNm0ec7xDk947Fp96aFigowu6LuTedVgZn1DlU71YNahZ_vpx1zApfhw=w300-rw",
+	"shop_url" : "https://healthandglow.com/"
 
 
 },
 
 {
-	"shop_name": "Vividaquariums",
-	"shop_image": "https://cdn.shopify.com/s/files/1/0855/3388/t/5/assets/logo.png?2087915823558579836"
+	"shop_name": "Kama Ayurveda",
+	"image_url": "https://d2evri7dyhazur.cloudfront.net/skin/frontend/rwd/default//images/logo.png",
+	"shop_url" : "https://www.kamaayurveda.com/"
 
 }
 
