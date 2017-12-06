@@ -1,5 +1,8 @@
+{
 
- [{
+"error" : false,
+
+"topshops": [{
 	"shop_name": "Flipkart App",
 	"image_url": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw",
 	"shop_url" : "https://www.flipkart.com/"
@@ -71,7 +74,9 @@
 	"shop_url" : "https://m.mirraw.com/"
 
 
-},
+}],
+
+"beautyshops":[
 
 {
 	"shop_name": "The Body Shop",
@@ -153,3 +158,4 @@
 }
 
 ]
+}
