@@ -2,8 +2,8 @@
 
 
 	"banners": [{
+		
 
-			"id": 1,
 			"name": "Jabong",
 			"banner": "https://blog.woohoo.in/wp-content/uploads/2013/04/deals-and-offers-at-jabong.jpg",
 			"url": "https://jabong.com"
@@ -11,7 +11,7 @@
 		},
 
 		{
-			"id": 2,
+
 			"name": "Amazon",
 			"banner": "https://images-eu.ssl-images-amazon.com/images/G/31/img16/Wireless/Mobiles/CEEX/OP3T/Gold/FlashSale/Job1024356_PC-banner_OP3TOOS_1500._V522093785_.jpg",
 			"url": "https://amazon.in"
@@ -19,7 +19,7 @@
 		},
 
 		{
-			"id": 3,
+
 			"name": "SnapDeal",
 			"banner": "https://www.theindiantalks.com/wp-content/uploads/2015/07/TechTree_News_03_Inline_A_1.jpg",
 			"url": "https://snapdeal.com"
@@ -27,14 +27,14 @@
 		},
 
 		{
-			"id": 4,
+
 			"name": "myntra",
 			"banner": "https://rukminim1.flixcart.com/flap/824/320/image/59565a.jpg?q=90",
 			"url": "https://myntra.com"
 		},
 
 		{
-			"id": 5,
+
 			"name": "Wrogn",
 			"banner": "https://www.paisebachaoindia.com/wp-content/uploads/2016/06/139-400x270.png",
 			"url": "https://store.nike.com/in/en_gb/pw/mens-tops-t-shirts/7puZobp"
