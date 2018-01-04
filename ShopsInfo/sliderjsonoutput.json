@@ -3,18 +3,21 @@
         "id": "1",
         "title": "Slide 1",
         "description": "First of three slide",
-        "image_url": "http://cbshop.in/wp-content/uploads/2017/07/cropped-jabong-banner-Google-Search-1.png"
+        "image_url": "http://cbshop.in/wp-content/uploads/2017/07/cropped-jabong-banner-Google-Search-1.png",
+        "url": "https://www.jabong.com/"
     },
     {
         "id": "2",
         "title": "Slide 2",
         "description": "Second of three slide",
-        "image_url": "https://images-eu.ssl-images-amazon.com/images/G/31/img16/Wireless/Mobiles/CEEX/OP3T/Gold/FlashSale/Job1024356_PC-banner_OP3TOOS_1500._V522093785_.jpg"
+        "image_url": "https://images-eu.ssl-images-amazon.com/images/G/31/img16/Wireless/Mobiles/CEEX/OP3T/Gold/FlashSale/Job1024356_PC-banner_OP3TOOS_1500._V522093785_.jpg",
+        "url" : "https://www.myntra.com/"
     },
     {
         "id": "3",
         "title": "Slide 3",
         "description": "Third of three slide",
-        "image_url": "https://www.theindiantalks.com/wp-content/uploads/2015/07/TechTree_News_03_Inline_A_1.jpg"
+        "image_url": "https://www.theindiantalks.com/wp-content/uploads/2015/07/TechTree_News_03_Inline_A_1.jpg",
+        "url" : "https://www.amazon.in"
     }
 ]
