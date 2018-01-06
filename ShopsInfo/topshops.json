@@ -3,7 +3,7 @@
 		"error": false,
 	
 		"topshops": [{
-				"shop_name": "Flipkart App",
+				"shop_name": "Flipkart",
 				"image_url": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw",
 				"shop_url": "https://www.flipkart.com/"
 			},
@@ -17,13 +17,13 @@
 			},
 	
 			{
-				"shop_name": "Voonik App",
+				"shop_name": "Voonik",
 				"image_url": "https://lh3.googleusercontent.com/ZDLiYOr-fm5pgYK5DG4xupFFNQ3fxFyGq-RkexslfaAxoH2DuuZKnpvchvaxfQUnw6ZF=w300-rw",
 				"shop_url": "https://m.voonik.com/"
 			},
 	
 			{
-				"shop_name": "Amazon App",
+				"shop_name": "Amazon",
 				"image_url": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300-rw",
 				"shop_url": "https://www.amazon.in/"
 			},
@@ -37,7 +37,7 @@
 			},
 	
 			{
-				"shop_name": "Myntra App",
+				"shop_name": "Myntra",
 				"image_url": "https://lh3.googleusercontent.com/J_IPZOnXakLkFCxbOC6tKcvtUbuI7WSkvjoRQh9-QjZV4o0cVSe1TzfaewGi_2f5RQ=w300-rw",
 				"shop_url": "https://www.myntra.com/"
 	
@@ -45,7 +45,7 @@
 			},
 	
 			{
-				"shop_name": "Ajio App",
+				"shop_name": "Ajio",
 				"image_url": "https://lh3.googleusercontent.com/ONjrqaU48hw4l-eKuC_2bewKrkt837sddNXrlp0pGe-FOG0T9FqHnqLclymWYqdXJKw=w300-rw",
 				"shop_url": "https://www.ajio.com"
 	
@@ -53,7 +53,7 @@
 			},
 	
 			{
-				"shop_name": "LimeRoad App",
+				"shop_name": "LimeRoad",
 				"image_url": "https://lh6.ggpht.com/ujF4W3J5DoKVQ6eXnBgDlqurhuamCsW7zLZZPFBXet4Pzhmyn6E-EyR55df6pHxqExc=w300-rw",
 				"shop_url": "https://www.limeroad.com/"
 	
@@ -69,7 +69,7 @@
 			},
 	
 			{
-				"shop_name": "Mirraw App",
+				"shop_name": "Mirraw",
 				"image_url": "https://lh3.googleusercontent.com/k2AbDF5RDNIMPEWb2LvJ1jU9b1HLc4uzkSflokl5boazVB7eb-wvkpAqfRm7HT0Xfww=w300-rw",
 				"shop_url": "https://m.mirraw.com/"
 	
