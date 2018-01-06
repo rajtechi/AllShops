@@ -3,21 +3,23 @@
         "id": "1",
         "title": "Slide 1",
         "description": "First of three slide",
-        "image_url": "http://s3.amazonaws.com/factmag-images/wp-content/uploads/2015/04/System-Shock-2.jpg",
-        "url": "https://www.jabong.com/"
+        "image_url": "https://res.cloudinary.com/du8msdgbj/image/upload/w_720,h_164,a_ignore,q_auto,f_auto/v1515176712/uk8nvntdxprjzpfs9zue.png",
+        "url": "https://www.1mg.com/categories"
     },
     {
         "id": "2",
         "title": "Slide 2",
         "description": "Second of three slide",
-        "image_url": "https://images-eu.ssl-images-amazon.com/images/G/31/img16/Wireless/Mobiles/CEEX/OP3T/Gold/FlashSale/Job1024356_PC-banner_OP3TOOS_1500._V522093785_.jpg",
-        "url" : "https://www.myntra.com/"
+        "image_url": "https://images.bewakoof.com/banner/womens-crewneck-banner-desktop-1515244783.jpg",
+        "url" : "https://www.bewakoof.com/winter-wear-for-women"
     },
     {
         "id": "3",
         "title": "Slide 3",
         "description": "Third of three slide",
-        "image_url": "https://www.theindiantalks.com/wp-content/uploads/2015/07/TechTree_News_03_Inline_A_1.jpg",
-        "url" : "https://www.amazon.in"
+        "image_url": "https://n2.sdlcdn.com/imgs/g/s/f/KitchenStoreApp-9afcd.jpg",
+        "url" : "https://m.snapdeal.com/offers/all-kitchen-store?HID=wap_topBanner_01"
     }
+    
+    
 ]
