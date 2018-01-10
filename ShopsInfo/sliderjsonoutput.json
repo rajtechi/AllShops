@@ -19,6 +19,13 @@
         "description": "Third of three slide",
         "image_url": "https://n3.sdlcdn.com/imgs/g/s/f/Grooming_Plat_android-a49f2.jpg",
         "url" : "https://m.snapdeal.com/offers/grooming-appliances"
+    },
+    {
+        "id": "4",
+        "title": "Slide 4",
+        "description": "Fourth of four slide",
+        "image_url": "https://www.reliancetrends.com/medias/sys_master/images/images/hb2/h9f/9027452829726/HomePage.jpg",
+        "url" : "https://www.reliancetrends.com/s/flat-50-percent-off-collection"
     }
     
     
