@@ -3,75 +3,85 @@
 		"error": false,
 	
 		"movies": [{
-				"shop_name": "Flipkart",
-				"image_url": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw",
-				"shop_url": "https://www.flipkart.com/"
+				"movie_name": "Flipkart",
+				"movie_url": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw",
+				"movie_rating": "4/5" ,
+				"movie_cast_and_crew" : "Crew , Crew"
 			},
 	
 			{
-				"shop_name": "Club-Factory",
-				"image_url": "https://lh3.googleusercontent.com/W6wSm0MxO778oVPFqSLlhN69q323mNoVOC_ibpWhRE4T_-QXJgFHuFQyHjK7MCOglQ=w300-rw",
-				"shop_url": "https://m.clubfactory.com/"
-	
-	
-			},
-	
-			{
-				"shop_name": "Voonik",
-				"image_url": "https://lh3.googleusercontent.com/ZDLiYOr-fm5pgYK5DG4xupFFNQ3fxFyGq-RkexslfaAxoH2DuuZKnpvchvaxfQUnw6ZF=w300-rw",
-				"shop_url": "https://m.voonik.com/"
-			},
-	
-			{
-				"shop_name": "Amazon",
-				"image_url": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300-rw",
-				"shop_url": "https://www.amazon.in/"
-			},
-	
-			{
-				"shop_name": "Paytm-Mall",
-				"image_url": "https://lh3.googleusercontent.com/7NwF3V-2xx4xRmMRbGXjdCeK7UMJ2D-BmZnGgGMEsbGcR-J1rc3W6BaboH-TuSh6hA=w300-rw",
-				"shop_url": "https://paytmmall.com/"
+				"movie_name": "Club-Factory",
+				"movie_url": "https://lh3.googleusercontent.com/W6wSm0MxO778oVPFqSLlhN69q323mNoVOC_ibpWhRE4T_-QXJgFHuFQyHjK7MCOglQ=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
 	
 	
 			},
 	
 			{
-				"shop_name": "Myntra",
-				"image_url": "https://lh3.googleusercontent.com/J_IPZOnXakLkFCxbOC6tKcvtUbuI7WSkvjoRQh9-QjZV4o0cVSe1TzfaewGi_2f5RQ=w300-rw",
-				"shop_url": "https://www.myntra.com/"
+				"movie_name": "Voonik",
+				"movie_url": "https://lh3.googleusercontent.com/ZDLiYOr-fm5pgYK5DG4xupFFNQ3fxFyGq-RkexslfaAxoH2DuuZKnpvchvaxfQUnw6ZF=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
+			},
+	
+			{
+				"movie_name": "Amazon",
+				"movie_url": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
+			},
+	
+			{
+				"movie_name": "Paytm-Mall",
+				"movie_url": "https://lh3.googleusercontent.com/7NwF3V-2xx4xRmMRbGXjdCeK7UMJ2D-BmZnGgGMEsbGcR-J1rc3W6BaboH-TuSh6hA=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
 	
 	
 			},
 	
 			{
-				"shop_name": "Ajio",
-				"image_url": "https://lh3.googleusercontent.com/ONjrqaU48hw4l-eKuC_2bewKrkt837sddNXrlp0pGe-FOG0T9FqHnqLclymWYqdXJKw=w300-rw",
-				"shop_url": "https://www.ajio.com"
+				"movie_name": "Myntra",
+				"movie_url": "https://lh3.googleusercontent.com/J_IPZOnXakLkFCxbOC6tKcvtUbuI7WSkvjoRQh9-QjZV4o0cVSe1TzfaewGi_2f5RQ=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
 	
 	
 			},
 	
 			{
-				"shop_name": "LimeRoad",
-				"image_url": "https://lh6.ggpht.com/ujF4W3J5DoKVQ6eXnBgDlqurhuamCsW7zLZZPFBXet4Pzhmyn6E-EyR55df6pHxqExc=w300-rw",
-				"shop_url": "https://www.limeroad.com/"
+				"movie_name": "Ajio",
+				"movie_url": "https://lh3.googleusercontent.com/ONjrqaU48hw4l-eKuC_2bewKrkt837sddNXrlp0pGe-FOG0T9FqHnqLclymWYqdXJKw=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
 	
 	
 			},
 	
 			{
-				"shop_name": "Max",
-				"image_url": "https://lh3.googleusercontent.com/9eLVNfu6YkC4mnCX7QtLoF9rG7MWL5lfcEbWTHikOqkkUJ3sVwKx-PvsKsvDDWSqKO2X=w300-rw",
-				"shop_url": "https://lite.maxfashion.in/in/en/"
+				"movie_name": "LimeRoad",
+				"movie_url": "https://lh6.ggpht.com/ujF4W3J5DoKVQ6eXnBgDlqurhuamCsW7zLZZPFBXet4Pzhmyn6E-EyR55df6pHxqExc=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
 	
 	
 			},
 	
 			{
-				"shop_name": "Shoppers Stop",
-				"image_url": "https://lh3.googleusercontent.com/pXsjPSuFjJ7FjIzHpa2cTITH9krQMlUC_SJ8wxNWnLbGb5nhrxk-duoIfV8Zrx1hTw=w300-rw",
-				"shop_url": "https://www.shoppersstop.com/"
+				"movie_name": "Max",
+				"movie_url": "https://lh3.googleusercontent.com/9eLVNfu6YkC4mnCX7QtLoF9rG7MWL5lfcEbWTHikOqkkUJ3sVwKx-PvsKsvDDWSqKO2X=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
+	
+	
+			},
+	
+			{
+				"movie_name": "Shoppers Stop",
+				"movie_url": "https://lh3.googleusercontent.com/pXsjPSuFjJ7FjIzHpa2cTITH9krQMlUC_SJ8wxNWnLbGb5nhrxk-duoIfV8Zrx1hTw=w300-rw",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
 	
 	
 			}
