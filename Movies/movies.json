@@ -19,31 +19,22 @@
 			},
 	
 			{
-				"movie_name": "Voonik",
-				"movie_url": "https://lh3.googleusercontent.com/ZDLiYOr-fm5pgYK5DG4xupFFNQ3fxFyGq-RkexslfaAxoH2DuuZKnpvchvaxfQUnw6ZF=w300-rw",
+				"movie_name": "Batman v Superman: Dawn of Justice",
+				"movie_url": "https://lh3.googleusercontent.com/3m47VchLy2R_J2ago4j3BX8jyoqo26VoE3v0eqyJ1jdhvLi7QSOsyMmcMJkS61oouGjW=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 			},
 	
 			{
-				"movie_name": "Amazon",
-				"movie_url": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300-rw",
+				"movie_name": "Wonder Woman",
+				"movie_url": "https://lh3.googleusercontent.com/hvs8b0vJWW--cA5STdIZTnnsaOrgEOQOcKVHDl8BCVmhZOr5MdMOZYCNONJjZraUGuCc=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 			},
 	
 			{
-				"movie_name": "Paytm-Mall",
-				"movie_url": "https://lh3.googleusercontent.com/7NwF3V-2xx4xRmMRbGXjdCeK7UMJ2D-BmZnGgGMEsbGcR-J1rc3W6BaboH-TuSh6hA=w300-rw",
-				"movie_rating":  "4/5",
-				"movie_cast_and_crew" : "Crew , Crew"
-	
-	
-			},
-	
-			{
-				"movie_name": "Myntra",
-				"movie_url": "https://lh3.googleusercontent.com/J_IPZOnXakLkFCxbOC6tKcvtUbuI7WSkvjoRQh9-QjZV4o0cVSe1TzfaewGi_2f5RQ=w300-rw",
+				"movie_name": "Wrath of the Titans",
+				"movie_url": "https://lh3.googleusercontent.com/2S5Iv-K5VWT6NHaRD5_lwj02cxyc5I0MYdnHNDo1ApGByhD8i70_EspJJVAeIYmP5XqY=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 	
@@ -51,8 +42,8 @@
 			},
 	
 			{
-				"movie_name": "Ajio",
-				"movie_url": "https://lh3.googleusercontent.com/ONjrqaU48hw4l-eKuC_2bewKrkt837sddNXrlp0pGe-FOG0T9FqHnqLclymWYqdXJKw=w300-rw",
+				"movie_name": "Percy Jackson & The Olympians: The Lightning Thief",
+				"movie_url": "https://lh3.googleusercontent.com/ECguVTE_wxVrEFQ6PEnsd71P4KFm8Wi8v0HpGpN8FkcXWKrbnOP6zSqP9AxIH1ol-o_u=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 	
@@ -60,8 +51,8 @@
 			},
 	
 			{
-				"movie_name": "LimeRoad",
-				"movie_url": "https://lh6.ggpht.com/ujF4W3J5DoKVQ6eXnBgDlqurhuamCsW7zLZZPFBXet4Pzhmyn6E-EyR55df6pHxqExc=w300-rw",
+				"movie_name": "Inkheart",
+				"movie_url": "https://lh3.googleusercontent.com/bsxf2hTRAUSVJpWIu73dx4fo7LGqDRC84TIhBGWKRlj7OOIP34HwOoDxwZkJvegOHs7S=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 	
@@ -69,8 +60,8 @@
 			},
 	
 			{
-				"movie_name": "Max",
-				"movie_url": "https://lh3.googleusercontent.com/9eLVNfu6YkC4mnCX7QtLoF9rG7MWL5lfcEbWTHikOqkkUJ3sVwKx-PvsKsvDDWSqKO2X=w300-rw",
+				"movie_name": "Thor: Ragnarok",
+				"movie_url": "https://lh3.googleusercontent.com/CXGulf5Tuk3OtcVm9pF_4G24ap4ByvQaLrhitfwLGyU4BWCWg2nw1pJXgwnwqkDMxDeKpA=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 	
@@ -78,8 +69,17 @@
 			},
 	
 			{
-				"movie_name": "Shoppers Stop",
-				"movie_url": "https://lh3.googleusercontent.com/pXsjPSuFjJ7FjIzHpa2cTITH9krQMlUC_SJ8wxNWnLbGb5nhrxk-duoIfV8Zrx1hTw=w300-rw",
+				"movie_name": "Kingsman: The Golden Circle",
+				"movie_url": "https://lh3.googleusercontent.com/od5KAqgjmHTx0XggMvE4WenZy9TkcVx3oQt2LtBZ06R0n59F66ZhRcLtG6sXA1h2Cf8=w200-h300",
+				"movie_rating":  "4/5",
+				"movie_cast_and_crew" : "Crew , Crew"
+	
+	
+			},
+	
+			{
+				"movie_name": "Guardians of the Galaxy Vol. 2",
+				"movie_url": "https://lh3.googleusercontent.com/5BVUEJFOZRN-pk1c02qYbz5sWmt1Gc80qFakss9yrmI8Ju0VciQNXfygCw-aLy9HuQjJ=w200-h300",
 				"movie_rating":  "4/5",
 				"movie_cast_and_crew" : "Crew , Crew"
 	
