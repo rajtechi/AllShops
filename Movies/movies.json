@@ -2,7 +2,7 @@
 	
 		"error": false,
 	
-		"topshops": [{
+		"movies": [{
 				"shop_name": "Flipkart",
 				"image_url": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=w300-rw",
 				"shop_url": "https://www.flipkart.com/"
