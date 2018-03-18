@@ -3,10 +3,10 @@
 		"error": false,
 	
 		"movies": [{
-				"movie_name": "Movie Name : Jumanji: Welcome to the Jungle",
+				"movie_name": "Jumanji: Welcome to the Jungle",
 				"movie_url": "https://lh3.googleusercontent.com/gk0wgcHdBSRD3os9E8BWzcUXHqe__G70Rhw7HFXXmJ6zTsDUAx-igWkz3AdsWgq5fMo=w200-h300",
-				"movie_rating": "4/5" ,
-				"movie_cast_and_crew" : "Actors : Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Nick Jonas, Bobby Cannavale, Ser'darius Blain, Madison Iseman, Morgan Turner, Alex Wolff, Rhys Darby, Marc Evan Jackson
+				"movie_rating":" Rating : 4/5" ,
+				"movie_cast_and_crew" : "Crew : Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Nick Jonas, Bobby Cannavale, Ser'darius Blain, Madison Iseman, Morgan Turner, Alex Wolff, Rhys Darby, Marc Evan Jackson
 "
 			},
 	
