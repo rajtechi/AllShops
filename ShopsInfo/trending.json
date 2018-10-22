@@ -5,7 +5,7 @@
 
 {
 	"vidoe_one": "FirstVideo",
-	"video_url": "N8WviMB40Uc"
+	"video_url": "<iframe width="100%" height="100%" src="https://www.youtube.com/embed/tQ_p0hmpYDk?list=PLzDvopQM-cIcHU50RWrUsUAMWD8X2ZBQb" frameborder="0" allowfullscreen></iframe>"
 	
 
 
@@ -13,7 +13,7 @@
 
 {
 	"Video_two": "SecondVideo",
-	"video_url": "InZQMqZy590"
+	"video_url": "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/6ZBvyQFwEpw?list=PLzDvopQM-cIcHU50RWrUsUAMWD8X2ZBQb\" frameborder=\"0\" allowfullscreen></iframe>"
 	
 
 
@@ -21,28 +21,21 @@
 
 {
 	"Video_three": "ThirdVideo",
-	"video_url": "0SujvH2MX2k"
+	"video_url": "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/PLzDvopQM-cIcHU50RWrUsUAMWD8X2ZBQb\" frameborder=\"0\" allowfullscreen></iframe>""
 	
 
 },
 
 {
 	"video_four": "fourthVideo",
-	"video_url": "Vj4mbuYO-0c"
+	"video_url": "<iframe width="100%" height="100%" src="https://www.youtube.com/embed/wIKXNRaMz1g" frameborder="0" allowfullscreen></iframe>"
 	
 
 },
 
 {
 	"video_five": "fifthVideo",
-	"video_url": "ZMIACmIKjck"
-
-
-},
-
-{
-	"video_six": "sixthVideo",
-	"video_url": "0tcMSlaTwPc"
+	"video_url": "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/b6PsWSloQQk\" frameborder=\"0\" allowfullscreen></iframe>""
 
 
 }]
