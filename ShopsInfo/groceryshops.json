@@ -1,0 +1,53 @@
+{
+	
+		"error": false,
+	
+		"groceryshops": [{
+				"shop_name": "bigbasket",
+				"image_url": "https://lh3.googleusercontent.com/EuiZnkT8aEKjXDLX74DTp1VRIwWaeRa8Dvo-LOGAxy1FPQ8GzABTIRenksiM-A7Oz48g=s360-rw",
+				"shop_url": "https://www.bigbasket.com/"
+			},
+			     {
+				"shop_name": "Grofers",
+				"image_url": "https://lh3.googleusercontent.com/xg-DIKlu7oizfAlE8sRHRjjjVqtBwo19qQr_L2e_tSUh-NWSDi1H--8YVuc1V85c88Rs=s360-rw",
+				"shop_url": "https://grofers.com/"
+			},
+	
+			{
+				"shop_name": "Ondoor",
+				"image_url": "https://lh3.googleusercontent.com/jPtnh2WBkv_zO6v95uLdW9kUIDUkJITpf3KY41sE4OJP8ZEiFbmryUdjm_lh6cI-hx3p=s360-rw",
+				"shop_url": "https://www.ondoor.com/"
+	
+	
+			},
+	
+			{
+				"shop_name": "StarQuik",
+				"image_url": "https://lh3.googleusercontent.com/XjqZM23wJBIVbOJiibPXj8o8tw7mh25YtpT5cgPRINCt3HW56V-EVTK3m1f27gXnaz2r=s360-rw",
+				"shop_url": "https://www.starquik.com"
+			},
+	
+			{
+				"shop_name": "MyKirana",
+				"image_url": "https://lh3.googleusercontent.com/5VXlFQM5Ys89klnWFYXsxVMYs99upAOCaB95DoQq57BvwaUyk1vyNK2C9YopFmdjYXw=s360-rw",
+				"shop_url": "https://www.mykirana.com/"
+			},
+	
+			{
+				"shop_name": "DMart",
+				"image_url": "https://lh3.googleusercontent.com/0FxNc84rRnHI3dBapmW6fi6AnJnRS3QrXoCDO3WolHso1-cgeocX_iikjUbsMI0doco=s360-rw",
+				"shop_url": "https://www.dmart.in/"
+	
+	
+			},
+	
+			{
+				"shop_name": "Spencer's",
+				"image_url": "https://lh3.googleusercontent.com/rZixmiDxGugZuaJ66925fxLQLMLrz6kb_jF52g9N4VH_X9xEOdg8hgccSU9lCDlmLPs=s360-rw",
+				"shop_url": "https://www.spencers.in/"
+	
+	
+			}
+		]
+	
+	}
