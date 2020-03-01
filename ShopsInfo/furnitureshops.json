@@ -1,0 +1,53 @@
+{
+	
+		"error": false,
+	
+		"furnitureshops": [{
+				"shop_name": "Urban Ladder",
+				"image_url": "https://lh3.googleusercontent.com/uNt7aaTzspgrMiJ51Y0AzzYAkNbgisEb-QmMr7nsMFmeChvPxrKb0YgQ7DnUncVi8S4u=s180-rw",
+				"shop_url": "https://www.urbanladder.com/"
+			},
+			     {
+				"shop_name": "Pepperfry",
+				"image_url": "https://lh3.googleusercontent.com/DRUl_Itt6wKtdfGRAOuSRHaXz9pVhNEgS1C-f2jylSbDMZxh_PNyRO2ZdnY-kCcznnoC=s180-rw",
+				"shop_url": "https://www.pepperfry.com/"
+			},
+	
+			{
+				"shop_name": "Home Centre",
+				"image_url": "https://lh3.googleusercontent.com/PeQcNlD9RECQI81xavrxqh7UZ1eYaQhY6-il279b2PVM_zrgDmbnwfrweZFInW4L5sI=s180-rw",
+				"shop_url": "https://www.homecentre.in/"
+	
+	
+			},
+	
+			{
+				"shop_name": "Royal oak",
+				"image_url": "https://lh3.googleusercontent.com/YoeEQ19d_H84e5Loo9cpGJIEWScaR41XzOJUc8Jsu5AUauBmHSUcI9xDLsfdZyjPq08=s180-rw",
+				"shop_url": "https://www.royaloakindia.com/"
+			},
+	
+			{
+				"shop_name": "HomeTown",
+				"image_url": "https://lh3.googleusercontent.com/xu-gCcLjxeTKBUkDjmPuNVRnEq1iA8LTTRUSDJc5TDreAAms-46jQ7xNz4lq8XyghFg=s180-rw",
+				"shop_url": "https://m.hometown.in/"
+			},
+	
+			{
+				"shop_name": "FurnitureWalla",
+				"image_url": "https://www.furniturewalla.com/media/logo.png",
+				"shop_url": "https://www.furniturewalla.com/"
+	
+	
+			},
+	
+			{
+				"shop_name": "WoodenStreet",
+				"image_url": "https://lh3.googleusercontent.com/BPPve9zJLSuxvpu7IgKl0o6HPks_I0jijIO2EdWpuWPkzliNeE6c1k6DO60-AQppTg=s180-rw",
+				"shop_url": "https://www.woodenstreet.com/"
+	
+	
+			}
+		]
+	
+	}
